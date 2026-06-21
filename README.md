@@ -26,7 +26,7 @@ Building upon REAL, we further extend it to REAL++ by introducing a Prototype-Gu
 This voter assists vanilla detectors in handling OOD news videos without requiring any additional training. 
 Finally, both the aligner and the voter are seamlessly integrated into existing models in a plug-and-play manner to improve their detection capabilities.
 Extensive experiments on three real-world news video datasets demonstrate the effectiveness of REAL and REAL++. 
-In particular, REAL++ achieves an average improvement of 9.31% and 22.35% in Macro-F1 over all baseline detectors under in-domain and OOD scenarios, respectively.
+In particular, REAL++ achieves an average improvement of 8.54% and 18.20% in Macro-F1 over all baseline detectors under in-domain and OOD scenarios, respectively.
 
 ## Framework
 
